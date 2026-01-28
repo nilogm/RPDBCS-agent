@@ -36,10 +36,10 @@ Regras:
 - Lembre-se que se um sinal for classificado como "Normal" ele não é uma falha. 
 - Não cite a ferramenta que foi utilizada. 
 
-Classificação do sinal dada pelo RPDBCS: \{class\} \
-Pergunta do usuário: \{message\} \
-Ferramenta utilizada: {tool\_used} \
-Saída da ferramenta (JSON): {tool\_response} 
+Classificação do sinal dada pelo RPDBCS: \{FAULT\_TYPE\} \
+Pergunta do usuário: \{MESSAGE\} \
+Ferramenta utilizada: \{TOOL\_USED\} \
+Saída da ferramenta (JSON): \{TOOL\_OUTPUT\} 
 
 
 ### In English (translated)
@@ -54,10 +54,10 @@ Rules:
 - Do not explain anything outside of the required sentence.
 - Do not literally copy the user's query.
 - Highlight the values from the JSON in **bold** (using two asterisks).
-- Remember that if a signal is classified as ``Normal'' it is not a fault.
+- Remember that if a signal is classified as "Normal" it is not a fault.
 - Do not mention the tool used.
 
-Signal classification provided by the RPDBCS: \{class\}\
-User's query: \{message\}\
-Tool used: \{tool\_used\}\
-Tool's output (JSON): \{tool\_response\}
+Signal classification provided by the RPDBCS: \{FAULT\_TYPE\}\
+User's query: \{MESSAGE\}\
+Tool used: \{TOOL\_USED\}\
+Tool's output (JSON): \{TOOL\_OUTPUT\}
