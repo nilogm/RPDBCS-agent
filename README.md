@@ -1,4 +1,4 @@
-# Enhancing Software User Interactivity in the Oil Industry via LLM-Based Agents
+# Enhancing the Fault Diagnosis Process in the Oil and Gas Industry via LLM-based Agent
 Supplementary material for the article.
 
 Below are some videos regarding each tool call.
